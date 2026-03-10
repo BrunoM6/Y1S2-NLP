@@ -4,3 +4,7 @@ matplotlib
 scikit-learn
 torch
 ipykernel
+nltk
+tqdm
+xgboost
+wordcloud
